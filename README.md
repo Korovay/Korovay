@@ -4,6 +4,7 @@
   <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30" />
 </a>
 
+<img alt="Discord" src="https://img.shields.io/discord/1203767982157733888">
 
-[Listen to my album on Spotify](https://open.spotify.com/album/4tQOSzRk76yDA3GHqlvN2V)
+
  
