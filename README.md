@@ -5,5 +5,5 @@
 </a>
 
 
-[![Listen on Spotify](https://spotify.com/path-to-image)](https://open.spotify.com/track/4cOirDG9ITvcIDYqxGGwNK)
+[Listen to my album on Spotify](https://open.spotify.com/album/4tQOSzRk76yDA3GHqlvN2V)
  
