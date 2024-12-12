@@ -4,5 +4,6 @@
   <img src="https://www.svgrepo.com/show/331368/discord-v2.svg" width="30" height="30" />
 </a>
 
-<iframe src="https://open.spotify.com/embed/track/4cOirDG9ITvcIDYqxGGwNK" width="300" height="80" frameborder="0" allowtransparency="true" allow="encrypted-media"></iframe>
+
+[![Listen on Spotify](https://spotify.com/path-to-image)](https://open.spotify.com/track/4cOirDG9ITvcIDYqxGGwNK)
  
