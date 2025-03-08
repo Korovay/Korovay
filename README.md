@@ -57,6 +57,6 @@ async function fetchAndUpdateBattleLogs() {
 
 
   <div align="center">
-    <img src="https://i.imgur.com/UhXU5rb.png" width="350"/>
+    <img src="https://i.imgur.com/WgrqQjo.png" width="350"/>
   </div>
 </p>
