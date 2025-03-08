@@ -15,7 +15,4 @@
     <img src="https://i.imgur.com/zpRmwZG.gif" width="100"/>
   </div>
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=Stats" alt="GitHub Streak">
-  </a>
-</p>
+
