@@ -15,8 +15,10 @@
     <img src="https://i.imgur.com/zpRmwZG.gif" width="100"/>
   </div>
   <br>
-  <div align="center">
-    <img src="https://i.imgur.com/yhSjWow.png" width="350"/>
+<div align="center">
+    <a href="https://brawlify.com/stats/profile/929Q290QR">
+      <img src="https://i.imgur.com/yhSjWow.png" width="350"/>
+    </a>
   </div>
   <br>
 
