@@ -17,7 +17,7 @@
   <br>
 <div align="center">
     <a href="https://brawlify.com/stats/profile/929Q290QR">
-      <img src="https://i.imgur.com/yhSjWow.png" width="350"/>
+      <img src="https://i.imgur.com/cjMiuJE.png" width="350"/>
     </a>
   </div>
   <br>
