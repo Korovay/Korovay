@@ -8,6 +8,7 @@
 [![Discord](https://img.shields.io/discord/1203767982157733888)](https://discord.gg/QMK6YAZ2UQ)
 
 
-
-
+<div id="header" align="center">
+  <img src="[https://i.imgur.com/rjUGi8H.gif](https://i.imgur.com/zpRmwZG.gif)" width="100"/>
+</div>
 
